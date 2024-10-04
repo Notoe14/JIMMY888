@@ -42,7 +42,7 @@ document.getElementsByClassName("KUY")[0].addEventListener("click", function() {
     }
 });
 
-var array = ["1.jpg", "2.jpg", "3.png", "4.png", "5.png", "7.png", "8.jpg"];
+var array = ["1.jpg", "2.jpg", "3.png", "4.png", "5.png", "7.png", "8.jpg", "9.jpg"];
 let random1;
 let random2;
 let random3;
